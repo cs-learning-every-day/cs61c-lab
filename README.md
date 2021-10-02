@@ -1,5 +1,13 @@
 # su21-lab
 
+## Venus
+
+java -jar tools/venus.jar . -dm
+
+mount local vmfs 
+
+---
+
 - [x] [Lab00](./lab00)
 - [x] [Lab01](./lab01)
 - [x] [Lab02](./lab02)
