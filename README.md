@@ -19,3 +19,4 @@ mount local vmfs
 - [ ] [Lab 8: Data-Level Parallelism](./lab08)
 - [ ] [Lab 9: Thread-Level Parallelism](./lab09)
 - [ ] [Lab 10: OS, Virtual Memory](./lab10)
+
